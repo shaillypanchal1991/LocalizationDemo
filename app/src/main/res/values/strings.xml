@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocalizationDemo</string>
+    <string name="selected_language">You are selected English language</string>
+</resources>

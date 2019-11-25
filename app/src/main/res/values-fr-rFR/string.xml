@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Démo_de_Localisation</string>
+    <string name="selected_language">Vous êtes sélectionné langue anglaise</string>
+</resources>
